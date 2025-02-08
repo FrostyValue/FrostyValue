@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">- 🌱 Actualmente estoy trabajando en [Tocando el DOM](https://github.com/mariaprez32/toquen-el-dom)
+<p align="left">- 🌱 Actualmente estoy trabajando en <a href="[url](https://github.com/mariaprez32/toquen-el-dom)">Toquen el DOM</a>
 <br>- 📚 Estoy aprendiendo Bootcamp FullStack orientado a Salesforce - Factoria F5.</p>
 
 ###
