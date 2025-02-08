@@ -20,7 +20,8 @@
 
 ###
 
-<p align="left">- 🌱 Actualmente estoy trabajando en https://github.com/mariaprez32/toquen-el-dom<br>- 📚 Estoy aprendiendo Bootcamp FullStack orientado a Salesforce - Factoria F5.</p>
+<p align="left">- 🌱 Actualmente estoy trabajando en [Tocando el DOM](https://github.com/mariaprez32/toquen-el-dom)
+<br>- 📚 Estoy aprendiendo Bootcamp FullStack orientado a Salesforce - Factoria F5.</p>
 
 ###
 
@@ -62,9 +63,6 @@
 
 <h3 align="left">🔥   My Stats :</h3>
 
-###
-
-<img src="https://raw.githubusercontent.com/FrostyValue/FrostyValue/output/snake.svg" alt="Snake animation" />
 
 ###
 
