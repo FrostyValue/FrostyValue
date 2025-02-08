@@ -16,12 +16,12 @@
 
 ###
 
-<h3 align="center">Estudiante de desarollo web full stack, Técnico en Sístemas Microinformáticos y Redes.</h3>
+<h3 align="center">Estudiante de Desarollo Web, Técnico en Sístemas Microinformáticos y Redes.</h3>
 
 ###
 
-<p align="left">- 🌱 Actualmente estoy trabajando en <a href="[url](https://github.com/mariaprez32/toquen-el-dom)">Toquen el DOM</a>
-<br>- 📚 Estoy aprendiendo Bootcamp FullStack orientado a Salesforce - Factoria F5.</p>
+- 🌱 Actualmente estoy trabajando en [Toquen el DOM](https://github.com/mariaprez32/toquen-el-dom)
+- 📚 Estoy aprendiendo Bootcamp FullStack orientado a Salesforce - Factoria F5.
 
 ###
 
@@ -84,3 +84,4 @@
 </div>
 
 ###
+
