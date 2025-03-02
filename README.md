@@ -20,7 +20,7 @@
 
 ###
 
-- 🌱 Actualmente estoy trabajando en [juego-POO](https://github.com/FrostyValue/juego-POO)
+- 🌱 Actualmente estoy trabajando en [CRUD-App](https://github.com/FaloCurso/crud-app)
 - 📚 Estoy aprendiendo Bootcamp FullStack orientado a Salesforce - Factoria F5.
 
 ###
